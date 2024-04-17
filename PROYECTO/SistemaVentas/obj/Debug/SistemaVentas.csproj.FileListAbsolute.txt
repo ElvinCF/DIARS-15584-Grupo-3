@@ -1,0 +1,11 @@
+D:\UNIVERSIDAD\2024-1\DIARS\PROYECTO\SistemaVentas\bin\Debug\SistemaVentas.exe.config
+D:\UNIVERSIDAD\2024-1\DIARS\PROYECTO\SistemaVentas\bin\Debug\SistemaVentas.exe
+D:\UNIVERSIDAD\2024-1\DIARS\PROYECTO\SistemaVentas\bin\Debug\SistemaVentas.pdb
+D:\UNIVERSIDAD\2024-1\DIARS\PROYECTO\SistemaVentas\obj\Debug\SistemaVentas.csproj.AssemblyReference.cache
+D:\UNIVERSIDAD\2024-1\DIARS\PROYECTO\SistemaVentas\obj\Debug\SistemaVentas.csproj.SuggestedBindingRedirects.cache
+D:\UNIVERSIDAD\2024-1\DIARS\PROYECTO\SistemaVentas\obj\Debug\SistemaVentas.Form1.resources
+D:\UNIVERSIDAD\2024-1\DIARS\PROYECTO\SistemaVentas\obj\Debug\SistemaVentas.Properties.Resources.resources
+D:\UNIVERSIDAD\2024-1\DIARS\PROYECTO\SistemaVentas\obj\Debug\SistemaVentas.csproj.GenerateResource.cache
+D:\UNIVERSIDAD\2024-1\DIARS\PROYECTO\SistemaVentas\obj\Debug\SistemaVentas.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\2024-1\DIARS\PROYECTO\SistemaVentas\obj\Debug\SistemaVentas.exe
+D:\UNIVERSIDAD\2024-1\DIARS\PROYECTO\SistemaVentas\obj\Debug\SistemaVentas.pdb
