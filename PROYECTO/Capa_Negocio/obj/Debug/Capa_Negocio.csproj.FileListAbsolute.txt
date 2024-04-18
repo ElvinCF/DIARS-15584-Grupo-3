@@ -1,0 +1,9 @@
+D:\UNIVERSIDAD\2024-1\DIARS\PROYECTO\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+D:\UNIVERSIDAD\2024-1\DIARS\PROYECTO\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+D:\UNIVERSIDAD\2024-1\DIARS\PROYECTO\Capa_Negocio\bin\Debug\Capa_Datos.dll
+D:\UNIVERSIDAD\2024-1\DIARS\PROYECTO\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+D:\UNIVERSIDAD\2024-1\DIARS\PROYECTO\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+D:\UNIVERSIDAD\2024-1\DIARS\PROYECTO\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\2024-1\DIARS\PROYECTO\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
+D:\UNIVERSIDAD\2024-1\DIARS\PROYECTO\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+D:\UNIVERSIDAD\2024-1\DIARS\PROYECTO\Capa_Negocio\obj\Debug\Capa_Negocio.pdb

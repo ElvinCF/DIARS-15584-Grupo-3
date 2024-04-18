@@ -1,0 +1,6 @@
+D:\UNIVERSIDAD\2024-1\DIARS\PROYECTO\Capa_Datos\bin\Debug\Capa_Datos.dll
+D:\UNIVERSIDAD\2024-1\DIARS\PROYECTO\Capa_Datos\bin\Debug\Capa_Datos.pdb
+D:\UNIVERSIDAD\2024-1\DIARS\PROYECTO\Capa_Datos\obj\Debug\Capa_Datos.csproj.AssemblyReference.cache
+D:\UNIVERSIDAD\2024-1\DIARS\PROYECTO\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\2024-1\DIARS\PROYECTO\Capa_Datos\obj\Debug\Capa_Datos.dll
+D:\UNIVERSIDAD\2024-1\DIARS\PROYECTO\Capa_Datos\obj\Debug\Capa_Datos.pdb
