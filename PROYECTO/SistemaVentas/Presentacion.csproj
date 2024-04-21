@@ -46,11 +46,29 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="Inicio.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="Inicio.Designer.cs">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Producto\Agregar Categoría.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Producto\Agregar Categoría.Designer.cs">
+      <DependentUpon>Agregar Categoría.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Producto\Agregar Producto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Producto\Agregar Producto.Designer.cs">
+      <DependentUpon>Agregar Producto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Producto\PRODUCTOS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Producto\PRODUCTOS.Designer.cs">
+      <DependentUpon>PRODUCTOS.cs</DependentUpon>
     </Compile>
     <Compile Include="Mesas.cs">
       <SubType>Form</SubType>
@@ -60,8 +78,8 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="Inicio.resx">
+      <DependentUpon>Inicio.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Mesas.resx">
       <DependentUpon>Mesas.cs</DependentUpon>
@@ -75,6 +93,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Producto\PRODUCTOS.resx">
+      <DependentUpon>PRODUCTOS.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
