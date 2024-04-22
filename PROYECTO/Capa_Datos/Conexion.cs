@@ -11,7 +11,7 @@ namespace Capa_Datos
     public class Conexion
     {
 
-        static string conexionstring = "server= localhost;database= RestauranteRenuevo;" +
+        static string conexionstring = "server= ARNOLD\\SQLEXPRESS;database= RestauranteRenuevo;" +
             "integrated security=true";
 
         SqlConnection con = new SqlConnection(conexionstring);
